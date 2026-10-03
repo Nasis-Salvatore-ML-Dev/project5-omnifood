@@ -3,7 +3,7 @@
 A fully responsive HTML/CSS landing page built as part of Jonas Schmedtmann's
 course on Udemy.
 
-The link of the built project is: https://effervescent-kulfi-8c876e.netlify.app/
+The link of the built project is: **[Live Frontend Demo](https://effervescent-kulfi-8c876e.netlify.app/)**
 
 ---
 
