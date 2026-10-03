@@ -1,8 +1,9 @@
 # Omnifood
 
 A fully responsive HTML/CSS landing page built as part of Jonas Schmedtmann's
-[Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 course on Udemy.
+
+The link of the built project is: https://effervescent-kulfi-8c876e.netlify.app/
 
 ---
 
